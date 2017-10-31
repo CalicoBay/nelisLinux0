@@ -1,0 +1,10 @@
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\bin\Debug\netcoreapp2.0\nelisLinux0.deps.json
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\bin\Debug\netcoreapp2.0\nelisLinux0.runtimeconfig.json
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\bin\Debug\netcoreapp2.0\nelisLinux0.runtimeconfig.dev.json
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\bin\Debug\netcoreapp2.0\nelisLinux0.dll
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\bin\Debug\netcoreapp2.0\nelisLinux0.pdb
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\obj\Debug\netcoreapp2.0\nelisLinux0.csproj.CoreCompileInputs.cache
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\obj\Debug\netcoreapp2.0\nelisLinux0.AssemblyInfoInputs.cache
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\obj\Debug\netcoreapp2.0\nelisLinux0.AssemblyInfo.cs
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\obj\Debug\netcoreapp2.0\nelisLinux0.dll
+C:\Users\Keesje\Documents\GitHub\nelisLinux0\obj\Debug\netcoreapp2.0\nelisLinux0.pdb
